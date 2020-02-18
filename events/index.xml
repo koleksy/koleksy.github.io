@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FTD Events on Fur Trade Days</title>
+    <link>https://furtradedays.com/events/</link>
+    <description>Recent content in FTD Events on Fur Trade Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Jan 2019 21:28:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://furtradedays.com/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forms</title>
+      <link>https://furtradedays.com/events/forms/</link>
+      <pubDate>Tue, 19 Feb 2019 19:54:49 -0700</pubDate>
+      
+      <guid>https://furtradedays.com/events/forms/</guid>
+      <description>Entry forms, event signups, and posters will appear here.</description>
+    </item>
+    
+    <item>
+      <title>Reunions</title>
+      <link>https://furtradedays.com/events/reunions/</link>
+      <pubDate>Tue, 19 Feb 2019 19:54:39 -0700</pubDate>
+      
+      <guid>https://furtradedays.com/events/reunions/</guid>
+      <description>CHS Class of 2010, 10 Year Reunion CHS Class of 2000, 20 Year Reunion CHS Class of 1990, 30 Year Reunion CHS Class of 1980, 40 Year Reunion ​To list your reunion information, email info@furtradedays.com.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://furtradedays.com/events/schedule/</link>
+      <pubDate>Fri, 25 Jan 2019 21:28:28 -0700</pubDate>
+      
+      <guid>https://furtradedays.com/events/schedule/</guid>
+      <description> Keep an eye on this space for a schedule of 2020 Fur Trade Days events in early April. </description>
+    </item>
+    
+  </channel>
+</rss>
