@@ -2,38 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Fur Trade Days, Inc. on Fur Trade Days</title>
-    <link>https://furtradedays.com/about/</link>
+    <link>/about/</link>
     <description>Recent content in About Fur Trade Days, Inc. on Fur Trade Days</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jan 2019 15:25:25 -0700</lastBuildDate><atom:link href="https://furtradedays.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Fur Trade Days, Inc. &amp;bull; Produced in part by a grant from the Dawes County Travel Board.</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 15:25:25 -0700</lastBuildDate>
+    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Museum of The Fur Trade</title>
-      <link>https://furtradedays.com/about/museum/</link>
+      <link>/about/museum/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/museum/</guid>
-      <description>The Museum of the Fur Trade is located on the James Bordeaux trading post, which has become an important historical site over the years. The trading post was established in the fall of 1837 as a site for the American Fur Company to conduct business with American Indians who spent their winters in the area.
-Traders, Trappers, and Indians The Museum of the Fur Trade is dedicated to preserving the rich history of the North American fur trade.</description>
+      <guid>/about/museum/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Our History</title>
-      <link>https://furtradedays.com/about/history/</link>
+      <link>/about/history/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/history/</guid>
-      <description>Northwest Nebraska The Community of Chadron and all of Northwest Nebraska welcomes you to the unforgettably unique celebration of Fur Trade Days. Chadron, located in the northwest corner of Nebraska, was named for the French fur trader Louis Baptiste Chartran. This event offers a weekend filled with history, rendezvous, entertainment, down-home hospitality, great food, and lots of fun! There is something for everyone and a chance to see neighbors and make new friends.</description>
+      <guid>/about/history/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Our Sposors</title>
-      <link>https://furtradedays.com/about/sponsors/</link>
+      <title>Our Sponsors</title>
+      <link>/about/sponsors/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/sponsors/</guid>
-      <description>2019 Entertainment Sponsors White Buffalo Presenting Sponsor </description>
+      <guid>/about/sponsors/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Get in touch</title>
+      <link>/about/intouch/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      <guid>/about/intouch/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

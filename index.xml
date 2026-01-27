@@ -2,132 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fur Trade Days</title>
-    <link>https://furtradedays.com/</link>
+    <link>/</link>
     <description>Recent content on Fur Trade Days</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 09 May 2025 14:25:32 +0530</lastBuildDate><atom:link href="https://furtradedays.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Fur Trade Days, Inc. &amp;bull; Produced in part by a grant from the Dawes County Travel Board.</copyright>
+    <lastBuildDate>Fri, 09 May 2025 14:25:32 +0530</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big. Stage. Fundraiser.</title>
-      <link>https://furtradedays.com/post/stage/</link>
+      <link>/events/bigstage/</link>
       <pubDate>Fri, 09 May 2025 14:25:32 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/stage/</guid>
+      <guid>/events/bigstage/</guid>
       <description>&lt;p&gt;Fur Trade Days is a party. A time to gather with family, friends, former classmates and celebrate the Chadron community&amp;rsquo;s past, present, and future. In the last handful of years, awesome live music has been a cornerstone of that party and it&amp;rsquo;s high time for an upgrade!&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Carnival</title>
-      <link>https://furtradedays.com/post/carnival/</link>
+      <link>/events/carnival/</link>
       <pubDate>Tue, 19 Feb 2019 18:25:22 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/carnival/</guid>
+      <guid>/events/carnival/</guid>
       <description>&lt;p&gt;We are excited to partner with Mac&amp;rsquo;s to bring you another outstanding Fur Trade Days Carnival in 2025! With 12 great rides, concessions, and the midway, Mac&amp;rsquo;s Carnival has something fun for kids of all ages.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Entertainment!</title>
-      <link>https://furtradedays.com/post/entertainment/</link>
+      <title>Live Music</title>
+      <link>/events/entertainment/</link>
       <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/entertainment/</guid>
+      <guid>/events/entertainment/</guid>
       <description>&lt;p&gt;Fur Trade Days is excited to bring you great entertainment downtown.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Traders&#39; Market</title>
-      <link>https://furtradedays.com/post/market/</link>
+      <title>Traders Market</title>
+      <link>/events/market/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/market/</guid>
+      <guid>/events/market/</guid>
       <description>&lt;p&gt;From food to finds, antiques and oddities, the Fur Trade Days Traders&amp;rsquo; Market features food vendors and craft merchants from around the region and across the country; providing something of interest for just about everyone.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Lions Club FTD Parade</title>
-      <link>https://furtradedays.com/post/parade/</link>
+      <title>Lions Club Parade</title>
+      <link>/events/parade/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/parade/</guid>
+      <guid>/events/parade/</guid>
       <description>&lt;p&gt;&lt;a name=&#34;parade&#34;&gt;&lt;/a&gt;&lt;strong&gt;The 49th Annual Lions Club Fur Trade Days Parade&lt;/strong&gt; starts at 10 a.m. on Saturday, July 12 and proceeds down Main Street from Tenth to First streets. Candy and other goodies will be passed out along the parade route. Come early to claim a good seat and enjoy the excitement!&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Activities and More</title>
-      <link>https://furtradedays.com/post/activities/</link>
+      <title>Buckskinners Camp</title>
+      <link>/events/buckskinners/</link>
       <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/activities/</guid>
-      <description>&lt;p&gt;Family-friendly fun begins Friday at the Dawes County Court House Gazebo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Buckskinner&#39;s Camp</title>
-      <link>https://furtradedays.com/post/buckskinners/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>https://furtradedays.com/post/buckskinners/</guid>
+      <guid>/events/buckskinners/</guid>
       <description>&lt;p&gt;The Bordeaux Creek Fur Trade and Muzzleloading Association’s Rendezvous, located 3.5 miles east and 8 miles south of Chadron, is expected to open Thursday, July 11, for camp setup.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Forms</title>
-      <link>https://furtradedays.com/events/forms/</link>
-      <pubDate>Tue, 19 Feb 2019 19:54:49 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/events/forms/</guid>
-      <description>Entry forms, event signups, and posters will appear here.</description>
+      <title>Activities and More</title>
+      <link>/events/activities/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <guid>/events/activities/</guid>
+      <description>&lt;p&gt;Family-friendly fun begins Friday at the Dawes County Court House Gazebo.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Reunions</title>
-      <link>https://furtradedays.com/events/reunions/</link>
-      <pubDate>Tue, 19 Feb 2019 19:54:39 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/events/reunions/</guid>
-      <description>CHS Class of 2003, 20 year Reunion Friday, July 14, Class Picnic, Wilson Park Shelter (8th &amp;amp; Mears streets) 5-9 p.m. Saturday, July 15, Fur Trade Parade, Meet along 10th Street, 9:30 a.m. For more specifics or to RSVP, check out the Class of 2003 Facebook Group or get in touch with Danielle Lecher at (308)430-0939 or danielle_lecher@hotmail.com
-​To list your reunion information, email info@furtradedays.com.</description>
-    </item>
-    
     <item>
       <title>Schedule</title>
-      <link>https://furtradedays.com/events/schedule/</link>
+      <link>/schedule/</link>
       <pubDate>Fri, 25 Jan 2019 21:28:28 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/events/schedule/</guid>
-      <description>2025 Fur Trade Days events last updated July 9, 2025 — Event times are tentative and subject to change
-Thursday, July 10, 2025 All Day - Buckskinners primitive camp, open to visitors (3 Miles East, ~8 miles south from Museum of the Fur Trade)
-6-9 p.m. - Bands on Bordeaux - Ivory (First Street, between Main &amp;amp; Bordeaux streets)
-6 p.m. - Midnight - Mac&amp;rsquo;s Carnival (East Second &amp;amp; Bordeaux streets)</description>
+      <guid>/schedule/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Museum of The Fur Trade</title>
-      <link>https://furtradedays.com/about/museum/</link>
+      <link>/about/museum/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/museum/</guid>
-      <description>The Museum of the Fur Trade is located on the James Bordeaux trading post, which has become an important historical site over the years. The trading post was established in the fall of 1837 as a site for the American Fur Company to conduct business with American Indians who spent their winters in the area.
-Traders, Trappers, and Indians The Museum of the Fur Trade is dedicated to preserving the rich history of the North American fur trade.</description>
+      <guid>/about/museum/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Our History</title>
-      <link>https://furtradedays.com/about/history/</link>
+      <link>/about/history/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/history/</guid>
-      <description>Northwest Nebraska The Community of Chadron and all of Northwest Nebraska welcomes you to the unforgettably unique celebration of Fur Trade Days. Chadron, located in the northwest corner of Nebraska, was named for the French fur trader Louis Baptiste Chartran. This event offers a weekend filled with history, rendezvous, entertainment, down-home hospitality, great food, and lots of fun! There is something for everyone and a chance to see neighbors and make new friends.</description>
+      <guid>/about/history/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Our Sposors</title>
-      <link>https://furtradedays.com/about/sponsors/</link>
+      <title>Our Sponsors</title>
+      <link>/about/sponsors/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      
-      <guid>https://furtradedays.com/about/sponsors/</guid>
-      <description>2019 Entertainment Sponsors White Buffalo Presenting Sponsor </description>
+      <guid>/about/sponsors/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Get in touch</title>
+      <link>/about/intouch/</link>
+      <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
+      <guid>/about/intouch/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,10 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Our Sponsors on Fur Trade Days</title>
-    <link>https://furtradedays.com/donate/</link>
+    <link>/donate/</link>
     <description>Recent content in Our Sponsors on Fur Trade Days</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 21:28:28 -0700</lastBuildDate><atom:link href="https://furtradedays.com/donate/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2025 Fur Trade Days, Inc. &amp;bull; Produced in part by a grant from the Dawes County Travel Board.</copyright>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="/donate/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
