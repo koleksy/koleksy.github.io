@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Fur Trade Days, Inc. on Fur Trade Days</title>
-    <link>/about/</link>
+    <link>https://furtradedays.com/about/</link>
     <description>Recent content in About Fur Trade Days, Inc. on Fur Trade Days</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2025 Fur Trade Days, Inc. &amp;bull; Produced in part by a grant from the Dawes County Travel Board.</copyright>
+    <copyright>&amp;copy; 2026 Fur Trade Days, Inc. &amp;bull; Produced in part by a grant from the Dawes County Travel Board.</copyright>
     <lastBuildDate>Wed, 16 Jan 2019 15:25:25 -0700</lastBuildDate>
-    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://furtradedays.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Museum of The Fur Trade</title>
-      <link>/about/museum/</link>
+      <link>https://furtradedays.com/about/museum/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      <guid>/about/museum/</guid>
+      <guid>https://furtradedays.com/about/museum/</guid>
       <description></description>
     </item>
     <item>
       <title>Our History</title>
-      <link>/about/history/</link>
+      <link>https://furtradedays.com/about/history/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      <guid>/about/history/</guid>
+      <guid>https://furtradedays.com/about/history/</guid>
       <description></description>
     </item>
     <item>
       <title>Our Sponsors</title>
-      <link>/about/sponsors/</link>
+      <link>https://furtradedays.com/about/sponsors/</link>
       <pubDate>Wed, 16 Jan 2019 15:25:25 -0700</pubDate>
-      <guid>/about/sponsors/</guid>
+      <guid>https://furtradedays.com/about/sponsors/</guid>
       <description></description>
     </item>
     <item>
       <title>Get in touch</title>
-      <link>/about/intouch/</link>
+      <link>https://furtradedays.com/about/intouch/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
-      <guid>/about/intouch/</guid>
+      <guid>https://furtradedays.com/about/intouch/</guid>
       <description></description>
     </item>
   </channel>
